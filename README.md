@@ -7,41 +7,38 @@ It enables customers to browse, purchase, and manage products online, while also
 
 This project was developed as a complete online shopping system, featuring modules for:
 
-Customers – register, login, shop, checkout, and view orders
-Sellers/Admins – manage products, categories, billing, and stock
-Database integration using MySQL
+- Customers – register, login, shop, checkout, and view orders
+- Sellers/Admins – manage products, categories, billing, and stock
+- Database integration using MySQL
 
 ## Technologies Used
 
-Frontend: HTML5, CSS3, JavaScript, AJAX
-
-Backend: PHP
-
-Database: Mysql
-
-Other Tools: XXAMP , phpMyAdmin
+* Frontend: HTML5, CSS3, JavaScript, AJAX
+* Backend: PHP
+* Database: Mysql
+* Other Tools: XXAMP , phpMyAdmin
 
 ## How to Run the Project
 
-Clone or download the repository:
-git clone https://github.com/ShriBangera/Elysian-Hub.git
+1. Clone or download the repository:
+    git clone https://github.com/ShriBangera/Elysian-Hub.git
 
-Move the project folder to your server directory (e.g. htdocs for XAMPP).
-
-Import the elysianhub.sql file into phpMyAdmin to set up the database.
-
-Update dbconnection.php with your local MySQL credentials.
-
-Open a browser and go to:
-http://localhost/Elysian-Hub/ElysianHub/index.php
+2. Move the project folder to your server directory (e.g. htdocs for XAMPP).
+3. Import the elysianhub.sql file into phpMyAdmin to set up the database.
+4. Update dbconnection.php with your local MySQL credentials.
+5. Open a browser and go to:
+    http://localhost/Elysian-Hub/ElysianHub/index.php
 
 ## Project Screenshots:
 ### Homepage of Elysian Hub:
-<img width="803" height="380" alt="image" src="https://github.com/user-attachments/assets/4e296dcb-22f8-4284-bd5b-90bd67be75a2" />
+<img width="803" height="380" alt="Screenshot 2024-06-06 070516" src="https://github.com/user-attachments/assets/93c4294e-aa3d-4931-b098-0c971e70b55b" />
+
 
 ### Product Catalog:
-<img width="803" height="380" alt="image" src="https://github.com/user-attachments/assets/19177357-187a-4f92-b126-6ac5415f5254" />
+<img width="803" height="380" alt="Screenshot 2024-06-06 070734" src="https://github.com/user-attachments/assets/510f03b7-ea3c-44a6-b14b-21196d0f6cc9" />
 
 
-###
+### Admin Dashboard:
+<img width="803" height="380" alt="Screenshot 2024-06-06 070734" src="https://github.com/user-attachments/assets/05dcf374-853d-4993-a6bb-ccce910664e7" />
+
 
