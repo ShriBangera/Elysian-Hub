@@ -1,4 +1,4 @@
-# Elysian Hub — E-Commerce Web Application for selling Interior Decor Pro
+# Elysian Hub — E-Commerce Web Application for selling Interior Decor Prodocts
 
 Elysian Hub is a dynamic e-commerce platform built using PHP, MySQL, HTML, CSS, JavaScript, and AJAX.
 It enables customers to browse, purchase, and manage products online, while also providing admin and seller functionalities for managing inventory, orders, and user data.
@@ -34,3 +34,14 @@ Update dbconnection.php with your local MySQL credentials.
 
 Open a browser and go to:
 http://localhost/Elysian-Hub/ElysianHub/index.php
+
+## Project Screenshots:
+### Homepage of Elysian Hub:
+<img width="803" height="380" alt="image" src="https://github.com/user-attachments/assets/4e296dcb-22f8-4284-bd5b-90bd67be75a2" />
+
+### Product Catalog:
+<img width="803" height="380" alt="image" src="https://github.com/user-attachments/assets/19177357-187a-4f92-b126-6ac5415f5254" />
+
+
+###
+
