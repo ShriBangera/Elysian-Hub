@@ -21,14 +21,17 @@ This project was developed as a complete online shopping system, featuring modul
 ## How to Run the Project
 
 1. Clone or download the repository:
+    ```bash
     git clone https://github.com/ShriBangera/Elysian-Hub.git
+    ```
 
 2. Move the project folder to your server directory (e.g. htdocs for XAMPP).
 3. Import the elysianhub.sql file into phpMyAdmin to set up the database.
 4. Update dbconnection.php with your local MySQL credentials.
 5. Open a browser and go to:
+   ```bash
     http://localhost/Elysian-Hub/ElysianHub/index.php
-
+   ```
 ## Project Screenshots:
 ### Homepage of Elysian Hub:
 <img width="803" height="380" alt="Screenshot 2024-06-06 070516" src="https://github.com/user-attachments/assets/93c4294e-aa3d-4931-b098-0c971e70b55b" />
